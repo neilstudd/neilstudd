@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Most of my GitHub content is either within my organisation or within personal private repositories, so the stats/content that you see here isn't entirely representative of my work!
+Most of my GitHub contributions are either within my organisation or within personal private repositories, so the stats/content that you see here isn't entirely representative of my work!
 
 Expect to see some more interesting collaborations appearing here in the near future 😄
 
