@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Most of my GitHub content is either within my organisation or within personal private repositories, so the stats/content that you see here isn't entirely representative of my work!
+
+Expect to see some more interesting collaborations appearing here in the near future 😄
+
 <!--
 **neilstudd/neilstudd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
