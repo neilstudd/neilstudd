@@ -13,6 +13,7 @@ Here are a list of the episodes to date, together with links to useful resources
 
  - [Postman](https://postman.com)
  - [Football Data API](https://football-data.org)
+ - [Postman collection for this episode](https://github.com/neilstudd/neilstudd/blob/master/resources/LetsExplore/Episode0.postman_collection.json) (you'll need to sign up for a free Football Data API key, and setup a Postman global environment variable called **secretAuthHeader**)
  
 **Neil's comments:** 
 
