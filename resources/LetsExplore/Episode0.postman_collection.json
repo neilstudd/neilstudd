@@ -1,0 +1,140 @@
+{
+	"info": {
+		"_postman_id": "31ab3231-b287-4272-bbd9-5666ced26509",
+		"name": "Ep0: Visualizing Fixtures",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get Premier League Fixtures",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "f01ad3b5-ad8a-491d-a390-60e4267d611a",
+						"exec": [
+							"var template = `",
+							"    <table bgcolor=\"#FFFFFF\">",
+							"        <tr>",
+							"            <th>Match Date</th>",
+							"            <th>Status</th>",
+							"            <th>Fixture</th>",
+							"        </tr>",
+							"",
+							"        {{#each response.matches}}",
+							"                <tr>",
+							"                    <td>{{utcDate}}</td>",
+							"                    <td>{{status}}</td>",
+							"                    <td>{{homeTeam.name}} vs {{awayTeam.name}}</td>",
+							"                </tr>",
+							"        {{/each}}",
+							"    </table>",
+							"`;",
+							"",
+							"// Set visualizer",
+							"pm.visualizer.set(template, {",
+							"    // Pass the response body parsed as JSON as `data`",
+							"    response: pm.response.json()",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "X-Auth-Token",
+						"value": "{{secretAuthHeader}}",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "https://api.football-data.org/v2/competitions/2021/matches",
+					"protocol": "https",
+					"host": [
+						"api",
+						"football-data",
+						"org"
+					],
+					"path": [
+						"v2",
+						"competitions",
+						"2021",
+						"matches"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Premier League Team List",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "3fde5fd9-49a9-4c86-8e10-7f00a5131d6c",
+						"exec": [
+							"var template = `",
+							"    <table bgcolor=\"#FFFFFF\">",
+							"        <tr>",
+							"            <th>Logo</th>",
+							"            <th>Team</th>",
+							"            <th>Address</th>",
+							"            <th>Website</th>",
+							"        </tr>",
+							"",
+							"        {{#each response.teams}}",
+							"            {{#unless email}}",
+							"                <tr>",
+							"                    <td><img src='{{crestUrl}}' width=200/></td>",
+							"                    <td><h3>{{name}}</h3></td>",
+							"                    <td><b>{{venue}}</b><br/>{{address}}</td>",
+							"                    <td><a href='{{website}}'>Click here to view {{shortName}}'s website</a></td>",
+							"                </tr>",
+							"            {{/unless}}",
+							"        {{/each}}",
+							"    </table>",
+							"`;",
+							"",
+							"// Set visualizer",
+							"pm.visualizer.set(template, {",
+							"    // Pass the response body parsed as JSON as `data`",
+							"    response: pm.response.json()",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "X-Auth-Token",
+						"value": "{{secretAuthHeader}}",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "https://api.football-data.org/v2/competitions/2021/teams",
+					"protocol": "https",
+					"host": [
+						"api",
+						"football-data",
+						"org"
+					],
+					"path": [
+						"v2",
+						"competitions",
+						"2021",
+						"teams"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
