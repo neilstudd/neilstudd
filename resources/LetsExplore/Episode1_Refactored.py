@@ -11,11 +11,10 @@ def CheckNumbers(myTicket, actualNumbers):
 
 startTime = time.perf_counter()
 
-for draw in range(20000000):
+for draw in range(100000):
     thisWeeksDraw = GetDrawNumbers()
     numbersMatched = CheckNumbers(myNumbers, thisWeeksDraw)
     if numbersMatched > 5 :
         print("Week " + str(draw + 1) + " numbers : " + str(thisWeeksDraw) + " (" + str(numbersMatched) + " matched)") 
         
-endTime = time.perf_counter()
-print("Completed in " + str(endTime - startTime) + " seconds!")
+print("Completed in " + str(time.perf_counter() - startTime) + " seconds!")
