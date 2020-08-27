@@ -4,7 +4,7 @@
 
 Here are a list of the episodes to date, together with links to useful resources and a quick write-up of the session.
 
-### 23/08/2020: Episode 0 - Visualizing Fixtures
+### 23/08/2020: Episode 0 - Visualizing Fixtures [[Watch on YouTube](https://www.youtube.com/watch?v=fjjqTvA_rgQ)]
 **Mission:** Use the Visualizer in Postman to display this season’s English Premier League fixtures. 
 
 **Secret sub-mission:** Check Neil’s Twitch streaming setup is acceptable before Episode 1!
@@ -23,7 +23,7 @@ As for the testing mission, I certainly accomplished everything that I'd hoped t
 
 Onwards and upwards for episode 1! Expect things to remain mostly in the same format, although I'm going to setup a second monitor which will show the current live stream, so I can spot any future crashes...
 
-### 27/08/2020: Episode 1 - The Python Lottery
+### 27/08/2020: Episode 1 - The Python Lottery [[Watch on YouTube](https://www.youtube.com/watch?v=DW3dRznL4N8)]
 **Mission:** Write a Python script which runs a series of fake lottery draws (6 random numbers) and compares it against the user's chosen numbers. Run many simulations and see if we can "win" the jackpot!
 
 **Resources:**
