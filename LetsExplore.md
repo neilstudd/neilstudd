@@ -29,6 +29,8 @@ Onwards and upwards for episode 1! Expect things to remain mostly in the same fo
 **Resources:**
 
  - [Python](https://python.org)
+ - [The script created in this episode](/resources/LetsExplore/Episode1.py)
+ - [The updated script that Neil went away and refactored](/resources/LetsExplore/Episode1_Refactored.py)
 
 **Neil's comments:**
 
@@ -38,4 +40,4 @@ Mission accomplished, although we didn't win the jackpot in FIFTY MILLION attemp
 
 As for the episode itself, it went pretty much as I'd hoped (except for forgetting to select my Yeti microphone as the source, meaning that all of the episode's audio came from my tinny Mac). It's a real odd experience trying to explain code that you're about to write; particularly near the start, I found myself saying "here, let me just show you" a lot! And I liked the way that I was able to demonstrate that the biggest performance improvements can come from the unlikeliest of sources (in this case, commenting-out some log messages).
 
-As promised in the video, I went away and refactored my two functions into one-liners, and you can find both the original and refactored scripts in my resources section. I like the new version of GetDrawNumbers - it utilises one of the functions that I spotted when browsing the Python docs on-stream - but the refactored CheckNumbers has lost a lot in readability, in exchange for not much peformance gain.
+As promised in the video, I went away and refactored my two functions into one-liners, and you can find both the original and refactored scripts in the links above. I like the new version of GetDrawNumbers - it utilises one of the functions that I spotted when browsing the Python docs on-stream - but the refactored CheckNumbers has lost a lot in readability, in exchange for not much peformance gain.
