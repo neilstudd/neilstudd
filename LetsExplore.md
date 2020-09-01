@@ -13,7 +13,7 @@ Here are a list of the episodes to date, together with links to useful resources
 
  - [Postman](https://postman.com)
  - [Football Data API](https://football-data.org)
- - [Postman collection for this episode](/resources/LetsExplore/Episode 0/Episode0.postman_collection.json) (you'll need to sign up for a free Football Data API key, and setup a Postman global environment variable called **secretAuthHeader**)
+ - [Postman collection for this episode](/resources/LetsExplore/Episode0/Episode0.postman_collection.json) (you'll need to sign up for a free Football Data API key, and setup a Postman global environment variable called **secretAuthHeader**)
  
 **Neil's comments:** 
 
@@ -29,15 +29,15 @@ Onwards and upwards for episode 1! Expect things to remain mostly in the same fo
 **Resources:**
 
  - [Python](https://python.org)
- - [The script created in this episode](/resources/LetsExplore/Episode 1/Episode1.py)
- - [The updated script that Neil went away and refactored](/resources/LetsExplore/Episode 1/Episode1_Refactored.py)
- - [A further version for checking multiple sets of numbers at once](/resources/LetsExplore/Episode 1/Episode1_MultipleContestants.py)
+ - [The script created in this episode](/resources/LetsExplore/Episode1/Episode1.py)
+ - [The updated script that Neil went away and refactored](/resources/LetsExplore/Episode1/Episode1_Refactored.py)
+ - [A further version for checking multiple sets of numbers at once](/resources/LetsExplore/Episode1/Episode1_MultipleContestants.py)
 
 **Neil's comments:**
 
 Mission accomplished, although we didn't win the jackpot in FIFTY MILLION attempts during the video! Of course, the very next time that I ran the script, we won the jackpot five times... it just goes to show, probability isn't to be messed with.
 
-![](/resources/LetsExplore/Episode 1/Episode1_JackpotWins.png)
+![](/resources/LetsExplore/Episode1/Episode1_JackpotWins.png)
 
 As for the episode itself, it went pretty much as I'd hoped (except for forgetting to select my Yeti microphone as the source, meaning that all of the episode's audio came from my tinny Mac). It's a real odd experience trying to explain code that you're about to write; particularly near the start, I found myself saying "here, let me just show you" a lot! And I liked the way that I was able to demonstrate that the biggest performance improvements can come from the unlikeliest of sources (in this case, commenting-out some log messages).
 
