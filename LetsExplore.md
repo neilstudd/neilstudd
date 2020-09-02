@@ -42,3 +42,23 @@ Mission accomplished, although we didn't win the jackpot in FIFTY MILLION attemp
 As for the episode itself, it went pretty much as I'd hoped (except for forgetting to select my Yeti microphone as the source, meaning that all of the episode's audio came from my tinny Mac). It's a real odd experience trying to explain code that you're about to write; particularly near the start, I found myself saying "here, let me just show you" a lot! And I liked the way that I was able to demonstrate that the biggest performance improvements can come from the unlikeliest of sources (in this case, commenting-out some log messages).
 
 As promised in the video, I went away and refactored my two functions into one-liners, and you can find both the original and refactored scripts in the links above. I like the new version of GetDrawNumbers - it utilises one of the functions that I spotted when browsing the Python docs on-stream - but the refactored CheckNumbers has lost a lot in readability, in exchange for not much peformance gain.
+
+### 03/09/2020: Episode 2 - API Challenge App [[Watch on YouTube](https://www.youtube.com/watch?v=zSHLYayjb5w)]
+**Mission:** Download Alan Richardson's API Challenges app, and complete 3-4 of the challenges in Postman.
+
+**Bonus Mission:** Complete a challenge on the hosted version of the app (which requires extra authentication).
+
+**Resources:**
+
+ - [API Challenges homepage](eviltester.com/apichallenges)
+ - [Hosted version of API Challenges app (resets data every 10 minutes)](https://apichallenges.herokuapp.com)
+ - [Postman](https://postman.com)
+ - [Neil's challenge status page](https://apichallenges.herokuapp.com/gui/challenges/13af3358-b16c-4077-bc46-c3f3a10e15dc)
+
+**Neil's comments:**
+
+Plain sailing! I knew there shouldn't be too much for me to be fearful of here, as I work with APIs on a daily basis, and I'd pre-downloaded Alan's app to make sure that I didn't have setup problems during the session. In fact I ended up completing a few more challenges than expected, after discovering by happy accident that some of Postman's default settings (e.g. always sending an Accept header) meant that I was able to tick-off multiple challenges with a single request. And I did unexpectedly learn something - I've never had reason to use the HEAD verb before, but can now already think of some very useful scenarios where I might choose to apply it in the future.
+
+The only thing I noticed (and commented on) was my own habit for "shortcutting": I declared that I was going to create a new Postman request for each challenge (the awfully-named Challenge 1, Challenge 2 etc) and yet quickly fell into the habit of just modifying the already-opened request. I think I might have been less lazy if I'd used better naming for these requests - my brain was probably saying it "doesn't matter" if Challenge 2 points to something different now - but as the collection was basically temporary, it didn't seem like a big deal.
+
+There was only one technical snafu in the episode, where my webcam preview froze for no apparent reason. Thankfully I noticed the problem a lot quicker than I'd feared; it's probably something to do with the weird way in which I'm capturing my screen and webcam simultaneously (the webcam is basically a QuickTime 'New Movie Recording' window, set to float on top, but not actually recording). 
