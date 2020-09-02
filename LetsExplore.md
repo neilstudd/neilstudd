@@ -43,7 +43,7 @@ As for the episode itself, it went pretty much as I'd hoped (except for forgetti
 
 As promised in the video, I went away and refactored my two functions into one-liners, and you can find both the original and refactored scripts in the links above. I like the new version of GetDrawNumbers - it utilises one of the functions that I spotted when browsing the Python docs on-stream - but the refactored CheckNumbers has lost a lot in readability, in exchange for not much peformance gain.
 
-### 03/09/2020: Episode 2 - API Challenge App [[Watch on YouTube]()]
+### 03/09/2020: Episode 2 - API Challenge App [[Watch on YouTube](https://www.youtube.com/watch?v=zSHLYayjb5w)]
 **Mission:** Download Alan Richardson's API Challenges app, and complete 3-4 of the challenges in Postman.
 
 **Bonus Mission:** Complete a challenge on the hosted version of the app (which requires extra authentication).
