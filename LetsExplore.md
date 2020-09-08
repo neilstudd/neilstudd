@@ -43,7 +43,7 @@ As for the episode itself, it went pretty much as I'd hoped (except for forgetti
 
 As promised in the video, I went away and refactored my two functions into one-liners, and you can find both the original and refactored scripts in the links above. I like the new version of GetDrawNumbers - it utilises one of the functions that I spotted when browsing the Python docs on-stream - but the refactored CheckNumbers has lost a lot in readability, in exchange for not much peformance gain.
 
-### 03/09/2020: Episode 2 - API Challenge App [[Watch on YouTube](https://www.youtube.com/watch?v=zSHLYayjb5w)]
+### 02/09/2020: Episode 2 - API Challenge App [[Watch on YouTube](https://www.youtube.com/watch?v=zSHLYayjb5w)]
 **Mission:** Download Alan Richardson's API Challenges app, and complete 3-4 of the challenges in Postman.
 
 **Bonus Mission:** Complete a challenge on the hosted version of the app (which requires extra authentication).
@@ -62,3 +62,24 @@ Plain sailing! I knew there shouldn't be too much for me to be fearful of here, 
 The only thing I noticed (and commented on) was my own habit for "shortcutting": I declared that I was going to create a new Postman request for each challenge (the awfully-named Challenge 1, Challenge 2 etc) and yet quickly fell into the habit of just modifying the already-opened request. I think I might have been less lazy if I'd used better naming for these requests - my brain was probably saying it "doesn't matter" if Challenge 2 points to something different now - but as the collection was basically temporary, it didn't seem like a big deal.
 
 There was only one technical snafu in the episode, where my webcam preview froze for no apparent reason. Thankfully I noticed the problem a lot quicker than I'd feared; it's probably something to do with the weird way in which I'm capturing my screen and webcam simultaneously (the webcam is basically a QuickTime 'New Movie Recording' window, set to float on top, but not actually recording). 
+
+
+### 09/09/2020: Episode 3 - API Exploratory Testing [[Watch on YouTube]()]
+
+**Mission:** Brainstorm a list of possible tests for a real API endpoint, and (if time) run as many as possible.
+
+**Resources:**
+
+ - [Football Data API](https://football-data.org)
+ - [Postman](https://postman.com)
+ - [Mindmup](https://mindmup.com)
+ - [Test Heuristics Cheat Sheet (PDF)](https://testobsessed.com/wp-content/uploads/2011/04/testheuristicscheatsheetv1.pdf)
+ - [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings/blob/master/blns.txt)
+
+**Neil's comments:**
+
+I really enjoyed this one! It's weird how quickly your ideas can dry up when you're under pressure, and it perfectly illustrated the benefits of having something like Elizabeth Hendrickson's cheat sheet to hand. And we found one genuine server error along the way (even if it was primarily due to an error in the user input).
+
+It was also my first time using new recording software ([OBS Studio](https://obsproject.com/)) which was recommended to me by Alan Richardson. It worked pretty much as hoped, although it's inconvenient that there's no way of viewing the webcam overlay while you're recording: there were a couple of moments during the video where I suddenly realised that I was probably typing in an area which wouldn't have been visible to the user. OBS is primarily designed for live streaming, especially of games, so I'm not massively surprised by this - the recording experience was more seamless than before, so I'm happy to learn to adapt.
+
+The only noteworthy thing that's missing from this episode: it's the first one which doesn't include human-transcribed subtitles. Subtitling is EXPENSIVE; [Rev](https://www.rev.com) is great, but when transcriptions are $1.25 per minute and you're recording a 47-minute video which is unlikely to reach 100 viewers in its first week, the costs mount up really quickly. If the series takes off, or I'm able to find some way to cover the costs of these, I'll backdate the subtitling at the earliest opportunity.
