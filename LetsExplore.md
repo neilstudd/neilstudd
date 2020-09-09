@@ -64,7 +64,7 @@ The only thing I noticed (and commented on) was my own habit for "shortcutting":
 There was only one technical snafu in the episode, where my webcam preview froze for no apparent reason. Thankfully I noticed the problem a lot quicker than I'd feared; it's probably something to do with the weird way in which I'm capturing my screen and webcam simultaneously (the webcam is basically a QuickTime 'New Movie Recording' window, set to float on top, but not actually recording). 
 
 
-### 09/09/2020: Episode 3 - API Exploratory Testing [[Watch on YouTube]()]
+### 09/09/2020: Episode 3 - API Exploratory Testing [[Watch on YouTube](https://www.youtube.com/watch?v=m6bYQQOCiWM)]
 
 **Mission:** Brainstorm a list of possible tests for a real API endpoint, and (if time) run as many as possible.
 
