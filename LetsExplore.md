@@ -83,3 +83,21 @@ I really enjoyed this one! It's weird how quickly your ideas can dry up when you
 It was also my first time using new recording software ([OBS Studio](https://obsproject.com/)) which was recommended to me by Alan Richardson. It worked pretty much as hoped, although it's inconvenient that there's no way of viewing the webcam overlay while you're recording: there were a couple of moments during the video where I suddenly realised that I was probably typing in an area which wouldn't have been visible to the user. OBS is primarily designed for live streaming, especially of games, so I'm not massively surprised by this - the recording experience was more seamless than before, so I'm happy to learn to adapt.
 
 The only noteworthy thing that's missing from this episode: it's the first one which doesn't include human-transcribed subtitles. Subtitling is EXPENSIVE; [Rev](https://www.rev.com) is great, but when transcriptions are $1.25 per minute and you're recording a 47-minute video which is unlikely to reach 100 viewers in its first week, the costs mount up really quickly. If the series takes off, or I'm able to find some way to cover the costs of these, I'll backdate the subtitling at the earliest opportunity.
+
+### 15/09/2020: Episode 4 - Exploring with TestBuddy [[Watch on YouTube](https://www.youtube.com/watch?v=a0DWifILUCE)]
+
+**Mission:** Use TestBuddy to plan and execute a 15-minute recon session on the registration page for The StoryGraph.
+
+**Resources:**
+
+ - [TestBuddy](https://testbuddy.co)
+ - [The StoryGraph](https://thestorygraph.com)
+ - [PDF of Neil's test session]()
+
+**Neil's comments:**
+
+This was an interesting challenge, because I was testing two things at once! Firstly, the website for The StoryGraph, which I hadn't even opened prior to starting the session, so I was going in completely blind. Secondly, I was running the session using TestBuddy, which I'd signed-up for that morning, and had yet to run any test sessions using the tool. Lots to learn, and so perhaps it wasn't a surprise that (although the recon session was only the advertised 15 minutes) the video ran to 45 minutes. I think I demonstrated that prior preparation (utilising the Planning section within TestBuddy) makes for a more focused testing session.
+
+I picked the registration page of The StoryGraph for my test as it seemed the most obvious - after all, I would have to register for an account before I could start to build a profile. However, in hindsight it's perhaps not a surprise that the registration process seemed to be a little rough: I talked in the video about 'product value', and a frictionless registration process isn't where The StoryGraph is striving to build its value. If I ran another session with The StoryGraph, I would probably focus on one of their headline features, such as the recommendations/filtering system which they're promoting on the homepage.
+
+As for TestBuddy: I found it an incredibly slick experience. I mentioned a few possible UX improvements at points where I'd been confused when first using the tool, but they're aspects which I'd learn to forget very quickly (such as the need to click "Finish" before being able to access the summary section). It's a tool that I'm certainly planning to share with colleagues, as I'm sure some of them are working within teams who would appreciate having test notes shared with them in this fashion.
