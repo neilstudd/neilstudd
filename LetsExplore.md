@@ -111,9 +111,15 @@ As for TestBuddy: I found it an incredibly slick experience. I mentioned a few p
 **Resources:**
 
  - [Python](https://python.org)
- - [The script created in this episode]()
- - [The updated script that Neil went away and refactored]()
+ - [The script created in this episode](/resources/LetsExplore/Episode5/Episode5_Original.py)
+ - [The updated script that Neil went away and refactored](/resources/LetsExplore/Episode5/Episodd5_Refactored.py)
 
 **Neil's comments:**
 
-comments here
+My second blind Python coding session of the series, and it shared a lot of parallels with the first! Most notably, it seems that I'm very good at setting overly ambitious "Bonus Mission" goals which are impossible to meet live on-stream, so (with a little bit of additional refactoring also visible) here's proof that I eventually managed to accomplish the 10-in-a-row feat:
+
+![](/resources/LetsExplore/Episode5/Screenshot.png)
+
+I was happy with how the script progressed throughout the video: my use of "todo" statements certainly paid-off, allowing me to focus on the piece of functionality that I was working on in the moment, before returning to add/improve extra features later. I only fell into a couple of language traps: firstly, the fact that `random.shuffle` modifies the original variable (causing some confusion when I was calling variables which I expected to be unshuffled) and some headaches around array-splitting of strings (for all the nice things that I have to say about Python, the fact that you have to do `foo[-1]` rather than some variant of `right(foo)` isn't brilliant).
+
+I'll probably park Python for a bit until we're in the double-figures, but I've got a few ideas of other things that I could try to code live, possibly more testing-focused. (Loading JSON data from a URL, and then traversing it, is something I've had to do a few times in the course of my testing, it'd be good to see how much I can remember when put on the spot!)
