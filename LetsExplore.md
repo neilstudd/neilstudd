@@ -92,7 +92,7 @@ The only noteworthy thing that's missing from this episode: it's the first one w
 
  - [TestBuddy](https://testbuddy.co)
  - [The StoryGraph](https://thestorygraph.com)
- - [PDF of Neil's test session]()
+ - [PDF of Neil's test session](/resources/LetsExplore/Episode4/TestBuddy_Report.pdf)
 
 **Neil's comments:**
 
