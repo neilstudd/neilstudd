@@ -112,7 +112,7 @@ As for TestBuddy: I found it an incredibly slick experience. I mentioned a few p
 
  - [Python](https://python.org)
  - [The script created in this episode](/resources/LetsExplore/Episode5/Episode5_Original.py)
- - [The updated script that Neil went away and refactored](/resources/LetsExplore/Episode5/Episodd5_Refactored.py)
+ - [The updated script that Neil went away and refactored](/resources/LetsExplore/Episode5/Episode5_Refactored.py)
 
 **Neil's comments:**
 
