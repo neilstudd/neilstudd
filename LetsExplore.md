@@ -2,7 +2,16 @@
 
 **Let's Explore!** is a live streaming series that I host on Twitch where, each week, I set myself a testing mission and then stumble blindly towards completing the goal. There's no editing, and nowhere to hide - just raw unfiltered testing and exploration.
 
+## Episode List
+
 Here are a list of the episodes to date, together with links to useful resources and a quick write-up of the session.
+
+* [Episode 0 - Visualizing Fixtures](#23082020-episode-0---visualizing-fixtures-watch-on-youtube)
+* [Episode 1 - The Python Lottery](#27082020-episode-1---the-python-lottery-watch-on-youtube)
+* [Episode 2 - API Challenge App](#02092020-episode-2---api-challenge-app-watch-on-youtube)
+* [Episode 3 - API Exploratory Testing](#09092020-episode-3---api-exploratory-testing-watch-on-youtube)
+* [Episode 4 - Exploring with TestBuddy](#15092020-episode-4---exploring-with-testbuddy-watch-on-youtube)
+* [Episode 5 - Python Play Your Cards Right](#22092020-episode-5---python-play-your-cards-right-watch-on-youtube)
 
 ### 23/08/2020: Episode 0 - Visualizing Fixtures [[Watch on YouTube](https://www.youtube.com/watch?v=fjjqTvA_rgQ)]
 **Mission:** Use the Visualizer in Postman to display this season’s English Premier League fixtures. 
