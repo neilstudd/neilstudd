@@ -5,6 +5,8 @@ LOWER = "L"
 SAME = "S"
 YES = "Y"
 NO = "N"
+gameActive = YES
+bestScore = 0
 
 def createDeck():
     deck = []
@@ -46,10 +48,13 @@ def playGame():
     deck = createDeck()
     previousCard = None
     winningStreak = 0
+    global bestScore
     pickedCards = ""
     for thisCard in deck:
         if previousCard == None:
             pickedCards = printCardNumber(thisCard)
+            print("\nWELCOME TO PYTHON PLAY YOUR CARDS RIGHT")
+            print("BEST SCORE SO FAR: " + str(bestScore))
             print("First card is: " + pickedCards)
         else:
             pickedCards += " " + printCardNumber(thisCard)
@@ -64,8 +69,9 @@ def playGame():
         nextCardPrediction = getNextCardPrediction()
 
     print("Game over - you got " + str(winningStreak) + " in a row!")
+    if winningStreak > bestScore:
+        bestScore = winningStreak
 
-gameActive = YES
 while gameActive.upper() == YES:
     playGame()
-    gameActive = input("Play again? Y/N")
+    gameActive = input("Play again? (Y/N)")
