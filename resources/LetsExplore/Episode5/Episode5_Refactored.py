@@ -4,7 +4,6 @@ HIGHER = "H"
 LOWER = "L"
 SAME = "S"
 YES = "Y"
-NO = "N"
 gameActive = YES
 bestScore = 0
 
@@ -64,7 +63,6 @@ def playGame():
             else:
                 print(pickedCards + " = WRONG!")
                 break
-
         previousCard = thisCard
         nextCardPrediction = getNextCardPrediction()
 
