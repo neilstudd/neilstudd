@@ -2,7 +2,16 @@
 
 **Let's Explore!** is a live streaming series that I host on Twitch where, each week, I set myself a testing mission and then stumble blindly towards completing the goal. There's no editing, and nowhere to hide - just raw unfiltered testing and exploration.
 
+## Episode List
+
 Here are a list of the episodes to date, together with links to useful resources and a quick write-up of the session.
+
+* [Episode 0 - Visualizing Fixtures](#23082020-episode-0---visualizing-fixtures-watch-on-youtube)
+* [Episode 1 - The Python Lottery](#27082020-episode-1---the-python-lottery-watch-on-youtube)
+* [Episode 2 - API Challenge App](#02092020-episode-2---api-challenge-app-watch-on-youtube)
+* [Episode 3 - API Exploratory Testing](#09092020-episode-3---api-exploratory-testing-watch-on-youtube)
+* [Episode 4 - Exploring with TestBuddy](#15092020-episode-4---exploring-with-testbuddy-watch-on-youtube)
+* [Episode 5 - Python Play Your Cards Right](#22092020-episode-5---python-play-your-cards-right-watch-on-youtube)
 
 ### 23/08/2020: Episode 0 - Visualizing Fixtures [[Watch on YouTube](https://www.youtube.com/watch?v=fjjqTvA_rgQ)]
 **Mission:** Use the Visualizer in Postman to display this season’s English Premier League fixtures. 
@@ -101,3 +110,25 @@ This was an interesting challenge, because I was testing two things at once! Fir
 I picked the registration page of The StoryGraph for my test as it seemed the most obvious - after all, I would have to register for an account before I could start to build a profile. However, in hindsight it's perhaps not a surprise that the registration process seemed to be a little rough: I talked in the video about 'product value', and a frictionless registration process isn't where The StoryGraph is striving to build its value. If I ran another session with The StoryGraph, I would probably focus on one of their headline features, such as the recommendations/filtering system which they're promoting on the homepage.
 
 As for TestBuddy: I found it an incredibly slick experience. I mentioned a few possible UX improvements at points where I'd been confused when first using the tool, but they're aspects which I'd learn to forget very quickly (such as the need to click "Finish" before being able to access the summary section). It's a tool that I'm certainly planning to share with colleagues, as I'm sure some of them are working within teams who would appreciate having test notes shared with them in this fashion.
+
+### 22/09/2020: Episode 5 - Python Play Your Cards Right [[Watch on YouTube](https://www.youtube.com/watch?v=C1rHzXRYPfk)]
+
+**Mission:** Write some code which shuffles a deck of cards, and allows the user to guess whether the next card is higher or lower.
+
+**Bonus Mission:** Try to correctly guess ten in a row!
+
+**Resources:**
+
+ - [Python](https://python.org)
+ - [The script created in this episode](/resources/LetsExplore/Episode5/Episode5_Original.py)
+ - [The updated script that Neil went away and refactored](/resources/LetsExplore/Episode5/Episode5_Refactored.py)
+
+**Neil's comments:**
+
+My second blind Python coding session of the series, and it shared a lot of parallels with the first! Most notably, it seems that I'm very good at setting overly ambitious "Bonus Mission" goals which are impossible to meet live on-stream, so (with a little bit of additional refactoring also visible) here's proof that I eventually managed to accomplish the 10-in-a-row feat:
+
+![](/resources/LetsExplore/Episode5/Screenshot.png)
+
+I was happy with how the script progressed throughout the video: my use of "todo" statements certainly paid-off, allowing me to focus on the piece of functionality that I was working on in the moment, before returning to add/improve extra features later. I only fell into a couple of language traps: firstly, the fact that `random.shuffle` modifies the original variable (causing some confusion when I was calling variables which I expected to be unshuffled) and some headaches around array-splitting of strings (for all the nice things that I have to say about Python, the fact that you have to do `foo[-1]` rather than some variant of `right(foo)` isn't brilliant).
+
+I'll probably park Python for a bit until we're in the double-figures, but I've got a few ideas of other things that I could try to code live, possibly more testing-focused. (Loading JSON data from a URL, and then traversing it, is something I've had to do a few times in the course of my testing, it'd be good to see how much I can remember when put on the spot!)
