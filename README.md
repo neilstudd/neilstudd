@@ -4,6 +4,16 @@ Most of my GitHub contributions are either within my organisation or within pers
 
 Expect to see some more interesting collaborations appearing here in the near future 😄
 
+### Slightly more about me
+
+As well as the links in my GitHub profile, here are some other places that you might find me contributing online:
+
+- [🚀 Postman community profile](https://community.postman.com/u/neilstudd/summary)
+- [💻 StackOverflow profile](https://stackoverflow.com/users/2213607/neil-studd)
+- [🗒️ Medium profile](https://medium.com/@neilstudd/about) (I actually need to write some stuff)
+- [🎥 Letterboxd profile](https://letterboxd.com/dustlined/)
+- [📚 Goodreads profile](https://www.goodreads.com/user/show/38787345-neil-studd)
+
 <!--
 **neilstudd/neilstudd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
