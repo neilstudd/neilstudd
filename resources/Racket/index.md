@@ -9,4 +9,7 @@ Hello there! Here is an (under construction) list of resources that I've referen
 * [Modern Testing principles](https://www.moderntesting.org)
 * [Rapid Software Testing](https://rapid-software-testing.com/)
 * [AST: Black Box Software Testing](https://associationforsoftwaretesting.org/bbst-black-box-software-testing-courses/)
-* [Ministry of Testing](https://www.ministryoftesting.com)
+* [Ministry of Testing homepage](https://www.ministryoftesting.com)
+* [Ministry of Testing - The Club](https://club.ministryoftesting.com)
+* [Ministry of Testing Slack](https://ministryoftesting.slack.com)
+* [Testers' Hangout (Google Meet)](https://bit.ly/testerhangout)
