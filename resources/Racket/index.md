@@ -13,3 +13,4 @@ Hello there! Here is an (under construction) list of resources that I've referen
 * [Ministry of Testing - The Club](https://club.ministryoftesting.com)
 * [Ministry of Testing Slack](https://ministryoftesting.slack.com)
 * [Testers' Hangout (Google Meet)](https://bit.ly/testerhangout)
+* [Inner Pod podcast, Episode 8: "Neil on talking"](https://innerpod.libsyn.com/episode-8-neil-on-talking)
