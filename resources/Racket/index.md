@@ -15,3 +15,4 @@ Hello there! Here is an (under construction) list of resources that I've referen
 * [Testers' Hangout (Google Meet)](https://bit.ly/testerhangout)
 * [Inner Pod podcast, Episode 8: "Neil on talking"](https://innerpod.libsyn.com/episode-8-neil-on-talking)
 * [Context Driven Testing](https://context-driven-testing.com/)
+* [Test Automation University](https://testautomationu.applitools.com/)
