@@ -9,6 +9,7 @@ Expect to see some more interesting collaborations appearing here in the near fu
 As well as the links in my GitHub profile, here are some other places that you might find me contributing online:
 
 - [💼 LinkedIn profile](https://www.linkedin.com/in/neilstudd)
+- [📢 Racket profile](https://www.racket.com/neilstudd)
 - [🚀 Postman community profile](https://community.postman.com/u/neilstudd/summary)
 - [💻 StackOverflow profile](https://stackoverflow.com/users/2213607/neil-studd)
 - [🗒️ Medium profile](https://medium.com/@neilstudd/about) (I actually need to write some stuff)
