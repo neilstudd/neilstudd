@@ -141,7 +141,7 @@ I'll probably park Python for a bit until we're in the double-figures, but I've 
 **Resources:**
 
  - [Racket](https://www.racket.com)
- - [PDF of the mind map created in this episode]()
+ - [PDF of the mind map created in this episode](/resources/LetsExplore/Episode6/Racket%20Search.pdf)
 
 **Neil's comments:**
 
