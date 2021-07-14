@@ -12,6 +12,7 @@ Here are a list of the episodes to date, together with links to useful resources
 * [Episode 3 - API Exploratory Testing](#09092020-episode-3---api-exploratory-testing-watch-on-youtube)
 * [Episode 4 - Exploring with TestBuddy](#15092020-episode-4---exploring-with-testbuddy-watch-on-youtube)
 * [Episode 5 - Python Play Your Cards Right](#22092020-episode-5---python-play-your-cards-right-watch-on-youtube)
+* [Episode 6 - Racket Search](#14072021-episode-6---racket-search-watch-on-youtube)
 
 ### 23/08/2020: Episode 0 - Visualizing Fixtures [[Watch on YouTube](https://www.youtube.com/watch?v=fjjqTvA_rgQ)]
 **Mission:** Use the Visualizer in Postman to display this season’s English Premier League fixtures. 
@@ -132,3 +133,18 @@ My second blind Python coding session of the series, and it shared a lot of para
 I was happy with how the script progressed throughout the video: my use of "todo" statements certainly paid-off, allowing me to focus on the piece of functionality that I was working on in the moment, before returning to add/improve extra features later. I only fell into a couple of language traps: firstly, the fact that `random.shuffle` modifies the original variable (causing some confusion when I was calling variables which I expected to be unshuffled) and some headaches around array-splitting of strings (for all the nice things that I have to say about Python, the fact that you have to do `foo[-1]` rather than some variant of `right(foo)` isn't brilliant).
 
 I'll probably park Python for a bit until we're in the double-figures, but I've got a few ideas of other things that I could try to code live, possibly more testing-focused. (Loading JSON data from a URL, and then traversing it, is something I've had to do a few times in the course of my testing, it'd be good to see how much I can remember when put on the spot!)
+
+### 14/07/2021: Episode 6 - Racket Search [[Watch on YouTube](https://www.youtube.com/watch?v=Xp1N7aAEYHA)]
+
+**Mission:** Explore the new Search feature on Racket, to determine whether its results match expectations.
+
+**Resources:**
+
+ - [Racket](https://www.racket.com)
+ - [PDF of the mind map created in this episode](/resources/LetsExplore/Episode6/Racket%20Search.pdf)
+
+**Neil's comments:**
+
+Time to blow off the cobwebs! Since I last recorded an episode, I've bought a new house and converted myself a dedicated studio space in the garden, complete with acoustic panelling and a bonus ultrawide UHD monitor. It's great that I don't have to record in the kitchen any more! Primarily this episode was a way of getting back into the swing of things, and making sure my laptop was set up to record and screen-share reasonably well, something which will be vital for upcoming conferences and live streams.
+
+This was a true "testing something new" experience, as the feature I was testing only went live today (it hadn't officially been announced to Racket's "What's New" page at this point). This made it a very good candidate for demonstrating how we occasionally find ourselves having to reverse-engineer behaviours (if we don't have access to the original specification or user story), and how it can be sometimes difficult to determine whether an observation is a "problem" or it can be brushed off as "as designed".
