@@ -4,7 +4,7 @@
 
 ### Why do I have a Readme?
 
-Everyone is different, everyone has different things which make them tick, different things that annoy them and different preferences for communication. I’d like to give anyone who needs to know, an insight into how I work best and how to get the best out of me when you need me to do something.
+Everyone is different, everyone has different things which make them tick, different things that annoy them and different preferences for communication. I’d like to give anyone who needs to know, an insight into how I work best and how to get the best out of me when you need me to do something. _(You can find out a bit more about the concept of a Communications Readme by viewing [this article on my blog](https://blog.neilstudd.com/readme).)_
 
 ### How best to communicate with me?
 
