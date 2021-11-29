@@ -2,6 +2,8 @@
 
 Most of my GitHub contributions are either within my organisation or within personal private repositories, so the stats/content that you see here isn't entirely representative of my work!
 
+If you're a colleague of mine, you might like to view my [Communications Readme](/CommunicationsReadme.md).
+
 Expect to see some more interesting collaborations appearing here in the near future 😄
 
 ### Slightly more about me
