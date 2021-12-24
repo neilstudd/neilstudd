@@ -16,7 +16,7 @@ Everyone is different, everyone has different things which make them tick, diffe
 - **Tell me if it's urgent.** If you need me urgently, the same applies above: please DM, and say it's urgent! I'm more than willing to drop everything if you tell me that it's necessary.
 - **Trust my status.** I actively manage my status indicator. Green = open to chat. Red = busy/focused. Away = away/BRB. Offline = offline! I will add detail in the status message, especially regarding my return time.
 - **I prefer camera on, but I'll follow your lead.** I like to use my webcam, but I appreciate that everybody is different. So I'll usually follow this logic:
-    - ****In large meetings:** I will follow whatever the majority is doing.
+    - **In large meetings:** I will follow whatever the majority is doing.
     - **If I start a private call:** I'll put my camera on. Don't feel pressured to do the same, it's your choice.
     - **If I join your private call:** I am happy to match whatever camera setting you are using.
 
@@ -24,14 +24,14 @@ Everyone is different, everyone has different things which make them tick, diffe
 
 - **Typical working hours: 08:00-17:00.** Immediately after this time, I have some childcare responsibilities (nursery collection, dinner, bath and bedtime!) so 5pm is often a "hard stop" for me; I can usually make extra time available in the evening for something critical. 
 - **Low availability on Tuesday afternoons.** I work a half-day on Tuesdays to help look after my son, and to buy my wife some time for herself. I'll still be responsive to incoming messages whenever possible, but I'm unlikely to be able to jump onto a call unless it's urgent.
-- **Mobile best for out-of-hours emergencies.** I try to avoid checking email/Slack out-of-hours, although it's often a losing battle. Nevertheless, if there is an emergency, a phonecall/SMS is the best way to guarantee getting hold of me.
+- **Please override Slack notifications if urgent.** I turn off my Slack notifications out-of-hours, but if you have an emergency then please DM me and click the Slackbot's option to override my do not disturb setting.
 - **Send me a calendar invite.** I manage my daily workflow (and interruptions) via my calendar, so for any significant-length chats, please send me a meeting invite. This helps to ensure that others are not trying to contact me at the same time, and I can give you the attention that you deserve 😊
 
 ### Icebreaker topics
 
-- **Films.** I am a bit of a movie buff - I have seen over 3,000 movies and I review/rate them online. On average, I aim to watch a film a day. So if you'd like to talk about a film, or send/receive recommendations, I'm always willing to chat!
+- **Films.** I am a bit of a movie buff - I have seen over 3,000 movies and I review/rate them online. So if you'd like to talk about a film, or send/receive recommendations, I'm always willing to chat!
+- **Peloton.** I was already a bit of a gym spin class addict before the pandemic, and that's only grown stronger after getting a Peloton bike at home. I'm rather addicted to all of the stats and challenges that it offers.
 - **Kids.** I have a son, Gus, who is approaching two years old. He has brought delightful chaos to our lives. I'm always happy to share our best/worst recent experiences, or hear about yours!
-- **Weather.** I'm British, so always happy to talk about the weather, especially with those in vastly different climates.
 
 ### What makes me tick?
 
