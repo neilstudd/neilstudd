@@ -11,10 +11,7 @@ Expect to see some more interesting collaborations appearing here in the near fu
 As well as the links in my GitHub profile, here are some other places that you might find me contributing online:
 
 - [💼 LinkedIn profile](https://www.linkedin.com/in/neilstudd)
-- [🚀 Postman community profile](https://community.postman.com/u/neilstudd/summary)
-- [💻 StackOverflow profile](https://stackoverflow.com/users/2213607/neil-studd)
 - [🎥 Letterboxd profile](https://letterboxd.com/dustlined/)
-- [📚 Goodreads profile](https://www.goodreads.com/user/show/38787345-neil-studd)
 
 <!--
 **neilstudd/neilstudd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
