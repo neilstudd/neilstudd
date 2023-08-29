@@ -2,6 +2,7 @@
 
 ### Version History
 
+- **29th August 2023:** Minor updates (it's now shorter!)
 - **21st August 2022:** Simplification before joining Makers - may add some Makers-specific info later!
 - **29th November 2021:** Revamp for Elucidat (primarily making it UK-centric).
 - **12th July 2021:** Initial draft prior to joining Postman.
@@ -23,7 +24,7 @@ Everyone is different, everyone has different things which make them tick, diffe
 
 ### How do you book a meeting with me?
 
-- **Typical working hours: 08:00-17:00.** After this time, I have childcare responsibilities, so 5pm is often a "hard stop", but if it's critical then I can make extra time available in the evening.
+- **Typical working hours: 08:00-16:30.** After this time, I have childcare responsibilities, so 5pm is often a "hard stop", but if it's critical then I can make extra time available in the evening.
 - **Please override Slack notifications if urgent.** I turn off my Slack notifications out-of-hours, so I won't see your message until the morning. If it's an emergency, please DM me and click the option to override my do not disturb setting.
 - **Send me a calendar invite.** I manage my daily workflow (and interruptions) via my calendar, so for any significant-length chats, please send me a meeting invite. This helps to ensure that others are not trying to contact me at the same time, and I can give you the attention that you deserve 😊
 
@@ -31,7 +32,7 @@ Everyone is different, everyone has different things which make them tick, diffe
 
 - **Films.** I am a bit of a movie buff - I have seen over 3,000 movies and I review/rate them online. So if you'd like to talk about a film, or send/receive recommendations, I'm always willing to chat!
 - **Peloton.** I was already a bit of a gym spin class addict before the pandemic, and that's only grown stronger after getting a Peloton bike at home. I'm rather addicted to all of the stats and challenges that it offers.
-- **Kids.** I have a son, Gus, a very opinionated two-year-old. He has brought delightful chaos to our lives. Whenever we speak, it's likely that he's done something bizarre in the past couple of hours.
+- **Kids.** I have a son, Gus, a very opinionated three-year-old. He has brought delightful chaos to our lives. Whenever we speak, it's likely that he's done something bizarre in the past couple of hours.
 
 ### What makes me tick?
 
@@ -44,7 +45,6 @@ Everyone is different, everyone has different things which make them tick, diffe
 - **If you're desperate for a reply, don't sit in silence.** I practice Inbox Zero, and check my mail/DMs every day (unless my Out Of Office says otherwise). If you haven't received a reply from me within 24 hours, this means I don't believe a follow-up is required. If you are expecting a response, please @ me in a reply (especially if it's a long thread with many recipients - see the "frustrations" section below).
 - **I'm OCD about to-do lists.** Similar to the above, I'm very driven by task lists, and the completion of objectives. If my lists grow too long, I may block-out some calendar time to prevent myself from becoming overwhelmed. Please bear this in mind if giving me new tasks when I am already openly juggling several other tasks.
 - **I actively try to avoid over-working.** I have a history of over-working which has sometimes spilled over into burnout. Because of this, I am now strict with myself in ensuring I take overtime back at a convenient point. Please be supportive and understanding with this.
-- **I have a full house on Mondays/Tuesdays.** My wife and son are both at home on Mondays and Tuesdays. Although I have an isolated office in the garden, there may still be occasional mini-emergencies which drag me away suddenly for a few minutes.
 
 ### Things that frustrate me
 
