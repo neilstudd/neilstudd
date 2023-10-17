@@ -10,7 +10,8 @@ Expect to see some more interesting collaborations appearing here in the near fu
 
 As well as the links in my GitHub profile, here are some other places that you might find me contributing online:
 
-- [📘 Finding Mojovation - my debut book on Leanpub!](https://leanpub.com/mojovation)
+- [📘 Finding Mojovation (my debut book) on Leanpub](https://leanpub.com/mojovation)
+- [📘 Finding Mojovation (my debut book) on Amazon](https://www.amazon.co.uk/Finding-Mojovation-create-contentment-personal/dp/B0CL2FN6CS/)
 - [💼 LinkedIn profile](https://www.linkedin.com/in/neilstudd)
 - [🎥 Letterboxd profile](https://letterboxd.com/dustlined/)
 
