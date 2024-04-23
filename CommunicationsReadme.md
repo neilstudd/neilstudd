@@ -32,7 +32,7 @@ Everyone is different, everyone has different things which make them tick, diffe
 
 - **Films.** I am a bit of a movie buff - I have seen over 3,000 movies and I review/rate them online. So if you'd like to talk about a film, or send/receive recommendations, I'm always willing to chat!
 - **Peloton.** I was already a bit of a gym spin class addict before the pandemic, and that's only grown stronger after getting a Peloton bike at home. I'm rather addicted to all of the stats and challenges that it offers.
-- **Kids.** I have a son, Gus, a very opinionated three-year-old. He has brought delightful chaos to our lives. Whenever we speak, it's likely that he's done something bizarre in the past couple of hours.
+- **Kids.** I have a son, Gus, a very opinionated four-year-old. He has brought delightful chaos to my life. Whenever we speak, it's likely that he's done something bizarre in the past couple of hours.
 
 ### What makes me tick?
 
