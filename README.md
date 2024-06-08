@@ -12,6 +12,7 @@ As well as the links in my GitHub profile, here are some other places that you m
 
 - [📘 Finding Mojovation (my debut book) on Leanpub](https://leanpub.com/mojovation)
 - [📘 Finding Mojovation (my debut book) on Amazon](https://www.amazon.co.uk/Finding-Mojovation-create-contentment-personal/dp/B0CL2FN6CS/)
+- [💭 The Dreamlinkers (my debut novel) on Amazon](https://www.amazon.co.uk/Dreamlinkers-Sleep-Agency-Neil-Studd/dp/B0D2LGLYF3/)
 - [💼 LinkedIn profile](https://www.linkedin.com/in/neilstudd)
 - [🎥 Letterboxd profile](https://letterboxd.com/dustlined/)
 
