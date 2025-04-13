@@ -30,9 +30,9 @@ Everyone is different, everyone has different things which make them tick, diffe
 
 ### Icebreaker topics
 
-- **Films.** I am a bit of a movie buff - I have seen over 3,000 movies and I review/rate them online. So if you'd like to talk about a film, or send/receive recommendations, I'm always willing to chat!
-- **Peloton.** I was already a bit of a gym spin class addict before the pandemic, and that's only grown stronger after getting a Peloton bike at home. I'm rather addicted to all of the stats and challenges that it offers.
-- **Kids.** I have a son, Gus, a very opinionated four-year-old. He has brought delightful chaos to my life. Whenever we speak, it's likely that he's done something bizarre in the past couple of hours.
+- **Films.** I am a bit of a movie buff - I have seen over 4,000 movies and I review/rate them online. So if you'd like to talk about a film, or send/receive recommendations, I'm always willing to chat!
+- **Scenery.** I live on the outskirts of the Peak District, with views of hills, fields and reservoirs from my office window. There are often sheep or cows roaming just out of my eyeline, and I'm always happy to share a bit of the landscape when I'm on a call.
+- **Kids.** I have a son, Gus, a very opinionated five-year-old. He has brought delightful chaos to my life. Whenever we speak, it's likely that he's done something bizarre in the past couple of hours.
 
 ### What makes me tick?
 
