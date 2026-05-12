@@ -2,6 +2,7 @@
 
 ### Version History
 
+- **12th May 2026:** Content refresh to reflect info recently created for Makers "Me Manual".
 - **29th August 2023:** Minor updates (it's now shorter!)
 - **21st August 2022:** Simplification before joining Makers - may add some Makers-specific info later!
 - **29th November 2021:** Revamp for Elucidat (primarily making it UK-centric).
@@ -18,13 +19,14 @@ Everyone is different, everyone has different things which make them tick, diffe
 - **Tell me if it's urgent.** If you need me urgently, the same applies above: please DM, and say it's urgent! I'm more than willing to drop everything if you tell me that it's necessary.
 - **Trust my status.** I actively manage my status indicator. If it says I'm available/away/offline, this is 99% accurate. For daytime breaks, I will include an estimated return time in my status.
 - **I prefer camera on, but I'll follow your lead.** I like to use my webcam, but I appreciate that everybody is different. So I'll usually follow this logic:
-    - **In large meetings:** I will follow whatever the majority is doing.
+    - **In large meetings:** I will follow whatever the majority is doing. If it's been a long day of meetings, I may opt for camera-off, but I am present (I'll use the "Be Right Back" indicator in Zoom if I am actually AFK).
     - **If I start a private call:** I'll put my camera on. Don't feel pressured to do the same, it's your choice.
     - **If I join your private call:** I am happy to match whatever camera setting you are using.
 
 ### How do you book a meeting with me?
 
 - **Typical working hours: 08:00-16:30.** After this time, I have childcare responsibilities, so 5pm is often a "hard stop", but if it's critical then I can make extra time available in the evening.
+- **Occasionally flex my time into the evening.** If life is getting in the way, or if I am struggling to find focus time during the workday, I may occasionally shift some of my working time into the evenings. I try to ensure others are not impacted by this (e.g. I'll use Schedule Message to ensure that a request doesn't go through to you til 9am) but if you notice that I'm online / making file changes, know that I am self-managing my time here.
 - **Please override Slack notifications if urgent.** I turn off my Slack notifications out-of-hours, so I won't see your message until the morning. If it's an emergency, please DM me and click the option to override my do not disturb setting.
 - **Send me a calendar invite.** I manage my daily workflow (and interruptions) via my calendar, so for any significant-length chats, please send me a meeting invite. This helps to ensure that others are not trying to contact me at the same time, and I can give you the attention that you deserve 😊
 
@@ -32,7 +34,7 @@ Everyone is different, everyone has different things which make them tick, diffe
 
 - **Films.** I am a bit of a movie buff - I have seen over 4,000 movies and I review/rate them online. So if you'd like to talk about a film, or send/receive recommendations, I'm always willing to chat!
 - **Scenery.** I live on the outskirts of the Peak District, with views of hills, fields and reservoirs from my office window. There are often sheep or cows roaming just out of my eyeline, and I'm always happy to share a bit of the landscape when I'm on a call.
-- **Kids.** I have a son, Gus, a very opinionated five-year-old. He has brought delightful chaos to my life. Whenever we speak, it's likely that he's done something bizarre in the past couple of hours.
+- **Kids.** I have a son, Gus, a very opinionated six-year-old. He has brought delightful chaos to my life. Whenever we speak, it's likely that he's done something bizarre in the past couple of hours.
 
 ### What makes me tick?
 
@@ -45,8 +47,10 @@ Everyone is different, everyone has different things which make them tick, diffe
 - **If you're desperate for a reply, don't sit in silence.** I practice Inbox Zero, and check my mail/DMs every day (unless my Out Of Office says otherwise). If you haven't received a reply from me within 24 hours, this means I don't believe a follow-up is required. If you are expecting a response, please @ me in a reply (especially if it's a long thread with many recipients - see the "frustrations" section below).
 - **I'm OCD about to-do lists.** Similar to the above, I'm very driven by task lists, and the completion of objectives. If my lists grow too long, I may block-out some calendar time to prevent myself from becoming overwhelmed. Please bear this in mind if giving me new tasks when I am already openly juggling several other tasks.
 - **I actively try to avoid over-working.** I have a history of over-working which has sometimes spilled over into burnout. Because of this, I am now strict with myself in ensuring I take overtime back at a convenient point. Please be supportive and understanding with this.
+- **I probably haven't slept much.** I'm up at 6am most days, and that's if Gus has allowed me to have a lie-in.
 
 ### Things that frustrate me
 
 - **Long-running email chains with dozens of recipients.** I would rather sit through a 30-minute meeting to resolve an issue, if the alternative is dozens of micro-interruptions from new emails.
 - **Be direct with your DMs.** Private message notifications break my flow, so if you need me, please try to summarise in your opening message to reduce the number of distractions. (Kudos to [NoHello.net](https://nohello.net/) for helping to share the message!)
+- **Feeling isolated.** It's difficult for me to attend weekday events in London (or anywhere, really) due to school run commitments. Please don't mistake my absence for lack of interest/engagement!
